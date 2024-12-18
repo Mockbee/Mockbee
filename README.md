@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering and Orchestration<br>👯 I’m looking to collaborate with other Data Engineers<br>🌱 I’m currently learning BigData Frameworks
+🔭 I’m currently working on Data Engineering and Orchestration<br>👯 I’m looking to collaborate with other Data Engineers<br>🌱 I’m currently learning Kafka, Airflow and AWS
 
 
 ## 🌐 Socials:
